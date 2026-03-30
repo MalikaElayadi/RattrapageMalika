@@ -1,0 +1,13 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend avec HTML, CSS et JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo Ouvrez index.html dans le navigateur",
+    "dev": "echo Ouvrez index.html dans le navigateur"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
